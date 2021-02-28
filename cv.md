@@ -27,7 +27,7 @@ My goal for 2021 is to pump the skills and knowledge of a frontend developer to 
 
 ## Education
 
-### ** Specialist, Sumy State University, Sumy **
+### **Specialist, Sumy State University, Sumy**
 
             2011 - 2017
 
