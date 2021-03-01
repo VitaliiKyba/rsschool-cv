@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 70vw;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 0px 50px 0px;
+}
+
+img {
+  max-width: 20%;
+  height: auto;
+}
+
+.title {
+  align-self: flex-end;
+}
