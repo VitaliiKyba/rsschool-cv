@@ -8,7 +8,7 @@
 
 ## About myself
 
-My goal for 2021 is to pump the skills and knowledge of a frontend developer to move into IT.
+My goal for 2021 is to improve the skills and knowledge of a frontend developer to move into IT.
 
 ## Skills:
 
