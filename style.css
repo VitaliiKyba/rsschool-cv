@@ -3,13 +3,9 @@
   padding: 0px;
 }
 
-body {
-  display: flex;
-  justify-content: center;
-}
-
 main {
-  width: 70vw;
+  width: 80vw;
+  margin: 0 auto;
 }
 
 .header {
@@ -27,11 +23,46 @@ img {
   align-self: flex-end;
 }
 
+.main-section {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+  margin-top: 40px;
+}
+
+.details li {
+  font-size: 1.2rem;
+  line-height: 2;
+}
+
 .in {
   max-width: 40px;
   height: auto;
   margin-left: 10px;
 }
+
 .in:hover {
   max-width: 41px;
+}
+
+h2 {
+  margin: 30px 0px 30px 0px;
+}
+
+p {
+  margin: 30px 0px 30px 0px;
+  font-size: 1.4rem;
+}
+
+ul {
+  margin-left: 30px;
+}
+
+ul li {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.year {
+  margin-left: 100px;
 }
