@@ -26,3 +26,12 @@ img {
 .title {
   align-self: flex-end;
 }
+
+.in {
+  max-width: 40px;
+  height: auto;
+  margin-left: 10px;
+}
+.in:hover {
+  max-width: 41px;
+}
