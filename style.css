@@ -66,3 +66,35 @@ ul li {
 .year {
   margin-left: 100px;
 }
+
+.footer {
+  background: lightgray;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  display: flex;
+  align-content: center;
+}
+
+.github {
+  display: flex;
+  margin: 0px 120px 0px 150px;
+}
+
+.github-img {
+  max-width: 85%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  width: 60px;
+}
+
+.madein {
+  padding-top: 20px;
+  margin-right: 120px;
+}
+
+.logo {
+  width: 50%;
+}
