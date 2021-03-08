@@ -35,6 +35,10 @@ img {
   line-height: 2;
 }
 
+/* .portfolio a {
+
+} */
+
 .in {
   max-width: 40px;
   height: auto;
@@ -93,6 +97,7 @@ ul li {
 a {
   text-decoration: none;
   width: 60px;
+  color: rgb(114, 114, 114);
 }
 
 .madein {
